@@ -44,7 +44,7 @@ const Footer = () => {
             <RiTwitterXLine className="h-9 w-9 border-2 border-white rounded-sm my-5 mx-2 md:m-5 p-1 font-semibold hover:bg-white hover:text-[#1A1A1A] ease-in-out duration-300" />
           </Link>
 
-          <Link href="https://www.linkedin.com/in/1r13a14/" target="_blank">
+          <Link href="https://www.linkedin.com/in/arman-ofc/" target="_blank">
             <RiLinkedinLine className="h-9 w-9 border-2 border-white rounded-sm my-5 mx-2 md:m-5 p-1 font-semibold hover:bg-white hover:text-[#1A1A1A] ease-in-out duration-300" />
           </Link>
 
