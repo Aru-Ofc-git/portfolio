@@ -38,7 +38,7 @@ const Hero = () => {
               </span>
             </div>
             <div className="flex justify-center flex-wrap my-7">
-            <Link href='https://www.linkedin.com/in/1r13a14/' target="_blank">
+            <Link href='https://www.linkedin.com/in/arman-ofc/' target="_blank">
                 <RiLinkedinFill className="h-10 w-10 p-2 bg-[#C4C4C4] text-black shadow-lg shadow-gray-400 rounded-xs hover:bg-orange-600 m-5 hover:text-[#C4C4C4]" />
               
               </Link>
@@ -93,7 +93,7 @@ const Hero = () => {
 
 
 
-              <Link href='https://www.linkedin.com/in/1r13a14/' target="_blank">
+              <Link href='https://www.linkedin.com/in/arman-ofc/' target="_blank">
                 <RiLinkedinFill className="h-10 w-10 p-2 bg-white text-black rounded-full shadow-lg hover:bg-orange-600 m-5" />
               
               </Link>
